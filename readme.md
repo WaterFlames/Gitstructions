@@ -1,10 +1,5 @@
 # Gitstructions
-
-LICENSSE: [MIT](./license.md)
-![git logo](./assets/Git-logo.svg.png)
----
-
-### Содержание:
+### Список основных команд:
 
 1. [git add](./add.md)
 2. [git commit](./commit.md)
@@ -23,5 +18,9 @@ LICENSSE: [MIT](./license.md)
 15. [git rebase](./rebase.md)
 
 ---
+LICENSSE: [MIT](./license.md)
+![git logo](./assets/Git-logo.svg.png)
+---
+
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
 license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
